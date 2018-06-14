@@ -1,0 +1,25 @@
+[global_threshold]
+global: 800
+
+[thresh_vers1]
+[free]
+rec1: 407
+rec2: 363
+rec3: 411
+rec4: 326
+rec5: 340
+
+[taken]
+rec1: 1580
+rec2: 2475
+rec3: 3670
+rec4: 1600
+rec5: 2463
+
+[thresh_vers2]
+free_bottom: 200
+taken_top: 6699
+
+[thresh_vers3]
+free_bottom: 200
+free_top: 712
